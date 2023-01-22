@@ -1,1 +1,0 @@
-console.log("La concha de tu madre allboys ");
