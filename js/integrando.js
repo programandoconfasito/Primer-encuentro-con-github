@@ -29,4 +29,14 @@ document.getElementById("color_original").addEventListener('click', function(){
     document.body.style.backgroundColor = "#000000"; 
 })
 
+document.getElementById("ocultar_titulo").addEventListener('click', function(){
+    
+    document.getElementById('titulo').style.display = 'none';
+
+ })
   
+
+ const collection = document.getElementsByClassName("ejemplo");
+for (let i = 0; i < collection.length; i++) {
+  collection[i].style.backgroundColor = "#F8C471";
+}

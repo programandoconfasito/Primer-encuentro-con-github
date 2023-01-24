@@ -10,7 +10,7 @@ button{
     font-size: 30px;
 }
 
-p{
+#demo,#demo2{
     color: aquamarine;
     font-style: italic;
     font-size: 30px;
@@ -19,3 +19,4 @@ p{
 h1{
     font-size: 600%;
 }
+
